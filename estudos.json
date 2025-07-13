@@ -1,36 +1,40 @@
 {
-  "Destaques": [
+  "Crescimento Espiritual": [
     {
       "id": 1,
-      "capa": "https://vpsforlive.sirv.com/jornadadafe.jpg",
-      "titulo": "Como obtivemos a Bíblia",
-      "descricao": "De onde a Bíblia veio? Quando ela começou?",
+      "capa": "https://vpsforlive.sirv.com/crescimentoespiritual.png",
+      "titulo": "Crescimento Espiritual",
+      "descricao": "Fortaleça sua fé e caminhe mais profundamente com Deus através de princípios bíblicos e práticas diárias.",
       "episodios": [
         {
-          "titulo": "O que é a Bíblia?",
-          "autor": "Rodrigo Bibo",
-          "audio": "https://cdn.pixabay.com/download/audio/2022/03/13/audio_a11d959ffe.mp3?filename=humming-song-59500.mp3",
-          "duracao": "32min"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "capa": "https://vpsforlive.sirv.com/jornadadafe.jpg",
-      "titulo": "A Jornada da Fé",
-      "descricao": "Como crescer em confiança mesmo diante do medo e da dúvida?",
-      "episodios": [
-        {
-          "titulo": "Introdução à Jornada",
-          "autor": "Equipe TeoCast",
-          "audio": "https://ia600907.us.archive.org/0/items/eleven-labs-2025-07-13-t-13-45-17-s-50-v-3/ElevenLabs_2025-07-13T13_45_17__s50_v3.mp3?cnt=0",
-          "duracao": "5min"
+          "titulo": "Introdução",
+          "autor": "Eterno",
+          "audio": "https://ia601501.us.archive.org/13/items/introducao_202507/introducao.mp3",
+          "duracao": "50s"
         },
         {
-          "titulo": "Confiança além do medo",
-          "autor": "Equipe TeoCast",
-          "audio": "https://ia600907.us.archive.org/0/items/eleven-labs-2025-07-13-t-13-45-17-s-50-v-3/ElevenLabs_2025-07-13T13_45_17__s50_v3.mp3?cnt=0",
+          "titulo": "Alimentando sua fé",
+          "autor": "Eterno",
+          "audio": "https://audio.com/estudos/crescimento-espiritual-alimentando-fe.mp3",
           "duracao": "13min"
+        },
+        {
+          "titulo": "Vencendo a estagnação espiritual",
+          "autor": "Eterno",
+          "audio": "https://audio.com/estudos/crescimento-espiritual-estagnacao.mp3",
+          "duracao": "11min"
+        },
+        {
+          "titulo": "O papel do sofrimento no crescimento",
+          "autor": "Eterno",
+          "audio": "https://audio.com/estudos/crescimento-espiritual-sofrimento.mp3",
+          "duracao": "14min"
+        },
+        {
+          "titulo": "Frutificando em todas as estações",
+          "autor": "Eterno",
+          "audio": "https://audio.com/estudos/crescimento-espiritual-frutos.mp3",
+          "duracao": "12min"
         }
       ]
     }
