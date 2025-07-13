@@ -41,7 +41,7 @@
   ],
   "Personagens Bíblicos": [
     {
-      "id": 1,
+      "id": 2,
       "capa": "https://vpsforlive.sirv.com/daviegolias.png",
       "titulo": "Davi, o Rei conforme o coração de Deus",
       "descricao": "Explore a vida de Davi, suas vitórias, falhas e o profundo relacionamento com Deus que marcou sua trajetória.",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "capa": "https://vpsforlive.sirv.com/historiademoises.png",
       "titulo": "Moisés, o Libertador do Povo",
       "descricao": "Conheça a jornada de Moisés, desde a sarça ardente até a liderança que libertou o povo de Israel.",
