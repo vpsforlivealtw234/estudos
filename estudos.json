@@ -1,0 +1,38 @@
+{
+  "Destaques": [
+    {
+      "id": 1,
+      "capa": "https://vpsforlive.sirv.com/jornadadafe.jpg",
+      "titulo": "Como obtivemos a Bíblia",
+      "descricao": "De onde a Bíblia veio? Quando ela começou?",
+      "episodios": [
+        {
+          "titulo": "O que é a Bíblia?",
+          "autor": "Rodrigo Bibo",
+          "audio": "https://audio.com/oque-e-a-biblia.mp3",
+          "duracao": "32min"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "capa": "https://vpsforlive.sirv.com/jornadadafe.jpg",
+      "titulo": "A Jornada da Fé",
+      "descricao": "Como crescer em confiança mesmo diante do medo e da dúvida?",
+      "episodios": [
+        {
+          "titulo": "Introdução à Jornada",
+          "autor": "Equipe TeoCast",
+          "audio": "https://ia600907.us.archive.org/0/items/eleven-labs-2025-07-13-t-13-45-17-s-50-v-3/ElevenLabs_2025-07-13T13_45_17__s50_v3.mp3?cnt=0",
+          "duracao": "5min"
+        },
+        {
+          "titulo": "Confiança além do medo",
+          "autor": "Equipe TeoCast",
+          "audio": "https://ia600907.us.archive.org/0/items/eleven-labs-2025-07-13-t-13-45-17-s-50-v-3/ElevenLabs_2025-07-13T13_45_17__s50_v3.mp3?cnt=0",
+          "duracao": "13min"
+        }
+      ]
+    }
+  ]
+}
