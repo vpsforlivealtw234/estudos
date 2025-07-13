@@ -38,5 +38,35 @@
         }
       ]
     }
+  ],
+  "Personagens Bíblicos": [
+    {
+      "id": 1,
+      "capa": "https://vpsforlive.sirv.com/daviegolias.png",
+      "titulo": "Davi, o Rei conforme o coração de Deus",
+      "descricao": "Explore a vida de Davi, suas vitórias, falhas e o profundo relacionamento com Deus que marcou sua trajetória.",
+      "episodios": [
+        {
+          "titulo": "Davi e Golias: Coragem contra o gigante",
+          "autor": "Eterno",
+          "audio": "https://ia800907.us.archive.org/2/items/daviegoliascoragem/daviegoliascoragem.mp3",
+          "duracao": "2min"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "capa": "https://vpsforlive.sirv.com/historiademoises.png",
+      "titulo": "Moisés, o Libertador do Povo",
+      "descricao": "Conheça a jornada de Moisés, desde a sarça ardente até a liderança que libertou o povo de Israel.",
+      "episodios": [
+        {
+          "titulo": "Chamado na sarça ardente: O início da missão",
+          "autor": "Eterno",
+          "audio": "https://archive.org/download/historiademoises/historiademoises.mp3",
+          "duracao": "1min"
+        }
+      ]
+    }
   ]
 }
