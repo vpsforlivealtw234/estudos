@@ -39,6 +39,7 @@
       ]
     }
   ],
+  {
   "Personagens Bíblicos": [
     {
       "id": 2,
@@ -64,6 +65,76 @@
           "titulo": "Chamado na sarça ardente: O início da missão",
           "autor": "Eterno",
           "audio": "https://archive.org/download/historiademoises/historiademoises.mp3",
+          "duracao": "1min"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "capa": "https://vpsforlive.sirv.com/capa_historiadeisaque.png",
+      "titulo": "A História de Isaque",
+      "descricao": "Conheça a história de Isaque, filho da promessa, e seu papel no plano divino.",
+      "episodios": [
+        {
+          "titulo": "A História de Isaque",
+          "autor": "Eterno",
+          "audio": "https://archive.org/download/historiadeisaque/historiadeisaque.mp3",
+          "duracao": "1min"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "capa": "https://vpsforlive.sirv.com/capa_ahistoriadejaco.png",
+      "titulo": "A História de Jacó",
+      "descricao": "Acompanhe os altos e baixos de Jacó e veja como Deus transforma sua vida.",
+      "episodios": [
+        {
+          "titulo": "A História de Jacó",
+          "autor": "Eterno",
+          "audio": "https://archive.org/download/historiadejaco/historiadejaco.mp3",
+          "duracao": "1min"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "capa": "https://vpsforlive.sirv.com/capa_ahistoriadejose.png",
+      "titulo": "A História de José",
+      "descricao": "Veja como José foi do fundo do poço ao trono do Egito por meio da fidelidade a Deus.",
+      "episodios": [
+        {
+          "titulo": "A História de José",
+          "autor": "Eterno",
+          "audio": "https://ia903202.us.archive.org/8/items/ahistoriadejose_202507/ahistoriadejose.mp3",
+          "duracao": "1min"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "capa": "https://vpsforlive.sirv.com/capa_historiadenoe.png",
+      "titulo": "A História de Noé e a Arca",
+      "descricao": "Descubra como Noé ouviu a voz de Deus e construiu a arca que salvou a humanidade.",
+      "episodios": [
+        {
+          "titulo": "A História de Noé e a Arca",
+          "autor": "Eterno",
+          "audio": "https://archive.org/download/historiadenoe/historiadenoe.mp3",
+          "duracao": "1min"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "capa": "https://vpsforlive.sirv.com/capa_danieleosleoes.png",
+      "titulo": "A História de Daniel na cova dos leões",
+      "descricao": "Veja como a fé inabalável de Daniel o sustentou mesmo diante dos perigos mortais.",
+      "episodios": [
+        {
+          "titulo": "Daniel na cova dos leões",
+          "autor": "Eterno",
+          "audio": "https://archive.org/download/historiadedanieleosleoes/historiadedanieleosleoes.mp3",
           "duracao": "1min"
         }
       ]
